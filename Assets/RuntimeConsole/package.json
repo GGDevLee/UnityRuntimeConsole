@@ -1,0 +1,10 @@
+{
+"name": "com.leeframework.console",
+"displayName": "RuntimeConsole",
+"description": "RuntimeConsole",
+"version": "1.0.0",
+"unity": "2021.2",
+"license": "MIT",
+"dependencies": {
+ }
+}
