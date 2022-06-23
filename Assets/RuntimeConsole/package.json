@@ -6,5 +6,6 @@
 "unity": "2021.2",
 "license": "MIT",
 "dependencies": {
+	"com.leeframework.uilooplistmini":"https://e.coding.net/ggdevlee/leeframework/LoopListMini.git#1.0.0"
  }
 }

@@ -9,12 +9,14 @@ namespace LeeFramework.Console
         public string condition;
         public string stackTrace;
         public LogType type;
+        public int index;
 
-        public Log(string condition, string stackTrace, LogType type)
+        public Log(string condition, string stackTrace, LogType type, int index)
         {
             this.condition = condition;
             this.stackTrace = stackTrace;
             this.type = type;
+            this.index = index;
         }
     }
 }
