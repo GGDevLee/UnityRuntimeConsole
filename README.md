@@ -13,7 +13,7 @@
 {
   "dependencies": {
 	"com.leeframework.uilooplistmini":"https://e.coding.net/ggdevlee/leeframework/LoopListMini.git#1.0.1",
-	"com.leeframework.console":"https://e.coding.net/ggdevlee/leeframework/RuntimeConsole.git#1.0.3"
+	"com.leeframework.console":"https://e.coding.net/ggdevlee/leeframework/RuntimeConsole.git#1.0.4"
   }
 }
 ```
