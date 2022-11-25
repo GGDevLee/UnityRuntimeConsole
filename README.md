@@ -25,8 +25,8 @@
   }
 }
 ```
-- import **[RuntimeConsole.unitypackage](https://github.com/GGDevLee/UnityRuntimeConsole/blob/main/Release/RuntimeConsole.unitypackage)**
-- clone/**[download](https://codeload.github.com/GGDevLee/UnityRuntimeConsole/zip/refs/heads/main)**这个仓库，然后移动**Unity/Assets/RuntimeConsole文件夹**到你的Unity工程Assets目录下
+- **import [RuntimeConsole.unitypackage](https://github.com/GGDevLee/UnityRuntimeConsole/blob/main/Release/RuntimeConsole.unitypackage)**
+- clone/**[download](https://codeload.github.com/GGDevLee/UnityRuntimeConsole/zip/refs/heads/main)** 这个仓库，然后移动 **Unity/Assets/RuntimeConsole文件夹**到你的Unity工程Assets目录下
 
 ### =================图片演示=================
 ![输入图片说明](TmpGif/screenshots.gif)
